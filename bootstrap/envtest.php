@@ -79,7 +79,7 @@ function the_seo_framework_pre_boot_test() {
 
 	$requirements = array(
 		'php' => 50600,
-		'wp'  => '5.1-dev',
+		'wp'  => '4.9',
 	);
 
 	// phpcs:disable, Generic.Formatting.MultipleStatementAlignment, WordPress.WhiteSpace.PrecisionAlignment
